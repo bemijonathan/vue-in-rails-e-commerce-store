@@ -12,7 +12,7 @@ require("@rails/activestorage").start()
 require("channels")
 // require("/js/vendor/modernizr-3.5.0.min.js")
 // require('js/vendor/modernizr-3.5.0.min.js')
-window.jQuery = window.jquery = require("js/vendor/jquery-3.2.1.min.js")
+// window.jQuery = window.jquery = require("js/vendor/jquery-3.2.1.min.js")
 require("js/plugins.js")
 require("js/active.js")
 
